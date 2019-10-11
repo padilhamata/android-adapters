@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atividade sobre Adapters - SimpleAdapter</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail</string>
+    <string name="digite_seu_sobre_nome">Digite seu sobre nome</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_seu_telefone">digite seu telefone</string>
+</resources>
